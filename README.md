@@ -4,9 +4,9 @@ It is necessary to extract surgical instruments from laparoscopic images in orde
 ## Requirements
 ### Library
 ```
-Python==3.7.3
-TensorFlow==1.14.0
-Keras==2.2.4
+python==3.7.3
+tensorflow-gpu==1.14.0
+keras==2.2.4
 ```
 ### Dataset
 MICCAI2017 Dataset: [MICCAI 2017 Robotic Instrument Segmentation Sub-Challenge](https://endovissub2017-roboticinstrumentsegmentation.grand-challenge.org/)
