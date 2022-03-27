@@ -4,7 +4,7 @@ It is necessary to extract surgical instruments from laparoscopic images in orde
 ## Requirements
 ### Library
 ```
-python==3.7.3
+python==3.6.9
 tensorflow-gpu==1.14.0
 keras==2.2.4
 ```
